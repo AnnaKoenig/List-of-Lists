@@ -1,8 +1,9 @@
 # List-of-Lists
 Lists of Time Zones
-
+_____________________________________________notes
 Reise der Eintagsfliege durch die Zeit
 
+- rate UTC - loope
 0 meredian/geschichte
 1 finnland/nigeria- temperatur
 2 ...
@@ -13,3 +14,8 @@ Reise der Eintagsfliege durch die Zeit
   .
   .
 nordpool hat alle zeitzonen
+
+
+pages:
+scrollmagic
+----sveta, ich kann deine schrift leider nicht lesen...bis morgen :)
